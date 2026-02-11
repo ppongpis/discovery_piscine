@@ -1,0 +1,9 @@
+rows = board.split("\n")
+rows[r][c]
+
+for r:
+    for c:
+        if rows[r][c] == "K":
+           #จำตำแหน่ง
+ถ้าเป็น P/B/R/Q:
+    ตรวจว่า attack king ได้ไหม
